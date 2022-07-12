@@ -1,1 +1,2 @@
-# SNY
+# npm update
+# npm start
